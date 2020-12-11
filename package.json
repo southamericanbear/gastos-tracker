@@ -1,5 +1,5 @@
 {
-  "name": "expense-tracker-mern",
+  "name": "expense-tracker",
   "version": "1.0.0",
   "description": "Backend for expense tracker",
   "main": "server.js",
@@ -9,8 +9,8 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Brad Traversy",
-  "license": "MIT",
+  "author": "Alan Miranda",
+  "license": "Alan Corp's",
   "dependencies": {
     "colors": "^1.4.0",
     "dotenv": "^8.2.0",
